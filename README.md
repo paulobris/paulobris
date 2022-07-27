@@ -1,5 +1,5 @@
 ### Hola 👋, soy Paulo
-#### Tecnico Electronico, en proceso a desarrollador Fullstack
+####
 Tecnico Electronico, en proceso a desarrollador Fullstack
 
 Skills: NODE JS / JS / HTML / CSS / PHP
